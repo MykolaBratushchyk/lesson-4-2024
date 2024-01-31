@@ -1,0 +1,216 @@
+/* Підключення стилів */
+/* @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap'); */
+
+/* @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Raleway:ital,wght@0,100..900;1,100..900&family=Rubik+Glitch+Pop&display=swap');
+
+----------------Робота на уроці---------------
+
+@font-face {
+	font-family: "CircularStd";
+	src: url(../fonts/CircularStd-Book.woff2) format(woff2), url(../fonts/CircularStd-Book.woff) format(woff);
+	font-display: swap;
+	font-weight: 400;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "CircularStd";
+	src: url(../fonts/CircularStd-Medium.woff2) format(woff2), url(../fonts/CircularStd-Medium.woff) format(woff);
+	font-display: swap;
+	font-weight: 500;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "CircularStd";
+	src: url(../fonts/CircularStd-Bold.woff2) format(woff2), url(../fonts/CircularStd-Bold.woff) format(woff);
+	font-display: swap;
+	font-weight: 700;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "CircularStd";
+	src: url(../fonts/CircularStd-Black.woff2) format(woff2), url(../fonts/CircularStd-Black.woff) format(woff);
+	font-display: swap;
+	font-weight: 900;
+	font-style: normal;
+}
+
+body{
+	font-family: "CircularStd";
+	font-weight: ;
+}
+
+h1{
+	font-family: "Lato";
+	font-weight: 700;
+} */
+
+
+
+
+
+
+/* _________ДОМАШКА__________ */
+
+/* ______FONTS______ */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+@font-face {
+	font-family: "Lato";
+	src: url(../fonts/lato/Lato-Regular.woff2) format(woff2), url(../fonts/lato/Lato-Regular.woff) format(woff);
+	font-display: swap;
+	font-weight: 400;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "Lato";
+	src: url(../fonts/lato/Lato-Bold.woff2) format(woff2), url(../fonts/lato/Lato-Bold.woff) format(woff);
+	font-display: swap;
+	font-weight: 700;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "Lato";
+	src: url(../fonts/lato/Lato-Black.woff2) format(woff2), url(../fonts/lato/Lato-Black.woff) format(woff);
+	font-display: swap;
+	font-weight: 900;
+	font-style: normal;
+}
+
+
+/* _______STYLES_______ */
+.header {
+	color: crimson;
+	font-family: "Roboto";
+	font-style: normal;
+	font-weight: 700;
+}
+.page {
+}
+.page-block {
+}
+.page-title {
+	color: #0d14d4;
+	font-family: "Roboto";
+	font-style: normal;
+	font-weight: 900;
+}
+.page-image {
+	
+}
+.page-main {
+}
+.main {
+}
+.main-text {
+	font-family: "Lato";
+	font-style: normal;
+	font-weight: 400;
+}
+.main-content {
+}
+.content {
+}
+.content-title {
+	color: green;
+	font-family: "Lato";
+	font-weight: 700;
+}
+.content-list {
+}
+.content-link a{
+	color: blueviolet;
+}
+.page-astra {
+font-family: "Lato";
+font-family: "Lato";
+	font-weight: 400;
+}
+.astra p{
+	color: orange;
+}
+.astra h2{
+	color: red;
+	font-family: "Lato";
+	font-style: normal;
+	font-weight: 900;
+}
+.astra-f {
+}
+.f {
+}
+.f-title {
+}
+.f-image {
+}
+.f-text {
+}
+.astra-g {
+}
+.g {
+}
+.g-title {
+}
+.g-image {
+}
+p.g-text {
+	color: aqua;
+}
+.astra-h {
+}
+.h {
+}
+.h-title {
+}
+.h-image {
+}
+p.h-text {
+	color: #06d217;
+}
+.astra-j {
+}
+.j {
+}
+.j-title {
+}
+.j-image {
+}
+.j-text {
+}
+.astra-k {
+}
+.k {
+}
+h2.k-title {
+	color: #ff1493;
+	font-family: "Roboto";
+	font-style: normal;
+	font-weight: 700;
+}
+.k-image {
+}
+p.k-text {
+	color: #bd04dd;
+	font-family: "Roboto";
+	font-style: normal;
+	font-weight: 400;
+}
+.astra-l {
+}
+.l {
+}
+.l-title {
+}
+.l-image {
+}
+.l-text {
+}
+.footer {
+	color: crimson;
+	font-family: "Roboto";
+	font-weight: 700;
+}
